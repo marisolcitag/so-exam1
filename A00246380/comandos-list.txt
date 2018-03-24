@@ -1,0 +1,48 @@
+    1  apt-get updated
+    2  apt-get updated
+    3  apt-get update
+    4  apt-get upgrade
+    5  apt-get install git-core
+    6  apt-get install tig
+    7  ipa 
+    8  ip a
+    9  ls
+   10  cd Documentos
+   11  git clone ls
+   12  ls
+   13  ls
+   14  history > comands-list.txt
+   15  ls
+   16  cat comands-list.txt 
+   17  cd so-exam1
+   18  cd ..
+   19  ls
+   20  history
+   21  ls
+   22  Cd Documentos/
+   23  ls
+   24  ls
+   25  cd Documentos/
+   26  ls
+   27  ls
+   28  history > comands-list.txt 
+   29  cat comands-list.txt 
+   30  ls
+   31  cd so-exam1/
+   32  git branch -a
+   33  git checkout marisolcitag/so-exam1
+   34  cd ..
+   35  mv comands-list.txt so-exam1/A00246380/
+   36  cd so-exam1
+   37  git add --all
+   38  git commit -m
+   39  git commit -m "add comandos"
+   40  git config --global user.mail "marisol.giraldo@correo.icesi.edu.co"git commit -m "add comandos"
+   41  tig
+   42  tig
+   43  uname
+   44  uname -a
+   45  uname -o
+   46  uname -m
+   47  history
+   48  history > comandos-list.txt
