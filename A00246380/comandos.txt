@@ -1,9 +1,86 @@
     1  history
     2  exit
-    3  apt-get update
-    4  apt-get upgrade
-    5  apt-get install git-core
+    3  clear
+    4  apt-get update
+    5  apt-get upgrade
     6  apt-get install git-core
-    7  cd Documentos
-    8  ls
-    9  history > comandos.txt
+    7  apt-get install git
+    8  uname
+    9  uname -s
+   10  uname -n
+   11  uname -a
+   12  uname -m
+   13  uname -r
+   14  uname -v
+   15  uname -p
+   16  uname -o
+   17  ip a
+   18  git clone https://github.com/marisolcitag/so-exam1.git
+   19  ls
+   20  cd so-exam1/
+   21  ls
+   22  cd A00246380/
+   23  ls
+   24  cd ..
+   25  git branch -a
+   26  git add -all
+   27  git add --all
+   28  git config --global user.mail "marisol.giraldo@correo.icesi.edu.co"
+   29  git config --global user.name "Marisol Giraldo Cobo"
+   30  tig
+   31  git commit -m "update comandos"
+   32  git config --global user.email "marisol.giraldo@correo.icesi.edu.co"
+   33  git config --global user.name "Marisol Giraldo Cobo"
+   34  git commit -m "update comandos"
+   35  cd A00246380/
+   36  history > comandos.txt 
+   37  cat comandos.txt
+   38  tig
+   39  git
+   40  ls
+   41  rm -r comands-list.txt 
+   42  ls
+   43  rm -r comandos-list.txt 
+   44  ls
+   45  cat comandos.txt 
+   46  rm -r comandos.txt 
+   47  ls
+   48  cd..
+   49  cd ..
+   50  cd ..
+   51  cat /etc/debianversion
+   52  cat /etc/debian_version
+   53  lsb_release -a
+   54  ls
+   55  cd ..
+   56  ls
+   57  cd ..
+   58  cd ..
+   59  marisolcitag
+   60  @marisolcitag
+   61  exit
+   62  git remote add origin https://github.com/marisolcitag/so-exam1.git
+   63  ls
+   64  cd so-exam1/
+   65  ls
+   66  cd A00246380/
+   67  ls
+   68  exi
+   69  exit
+   70  apt-get update
+   71  apt-get upgrade
+   72  apt-get install git-core
+   73  uname
+   74  uname -s
+   75  uname-n
+   76  uname -n
+   77  uname -a
+   78  uname -m
+   79  uname -r
+   80  uname -v
+   81  uname -p
+   82  uname o
+   83  ip a
+   84  git clone https://github.com/marisolcitag/so-exam1.git
+   85  ls
+   86  history > comandos.txt
