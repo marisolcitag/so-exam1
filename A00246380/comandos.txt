@@ -1,0 +1,9 @@
+    1  history
+    2  exit
+    3  apt-get update
+    4  apt-get upgrade
+    5  apt-get install git-core
+    6  apt-get install git-core
+    7  cd Documentos
+    8  ls
+    9  history > comandos.txt
