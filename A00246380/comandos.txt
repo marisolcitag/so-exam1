@@ -34,13 +34,3 @@ git commit -m "update comandos"
 history > comandos.txt
 git push origin marisolcitag/so-exam1 
 git pull
-git push origin marisolcitag/so-exam1 
-history > so-exam1/A00246380/comandos.txt
-ls
-mv comandos.txt A00246380
-cd A00246380/
-ls
-cd ..
-git push origin marisolcitag/so-exam1 
-git pull
-
