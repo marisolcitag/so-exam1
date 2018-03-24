@@ -84,3 +84,20 @@
    84  git clone https://github.com/marisolcitag/so-exam1.git
    85  ls
    86  history > comandos.txt
+   87  ls
+   88  mv comandos.txt so-exam1/
+   89  ls
+   90  cd so-exam1/
+   91  ls
+   92  mv comandos.txt A00246380
+   93  git branch -a
+   94  git checkout marisolcitag/so-exam1
+   95  ls
+   96  git add --all
+   97  git commit -m "add comandos"
+   98  git config --global user.email "marisol.giraldo@correo.icesi.edu.co"
+   99  git config --global user.name "Marisol Giraldo Cobo"
+  100  ls
+  101  cd A00246380/
+  102  ls
+  103  history > comandos.txt 
