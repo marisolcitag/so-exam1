@@ -1,0 +1,36 @@
+apt-get update
+apt-get upgrade
+apt-get install git-core
+app-get install git
+uname
+uname -s
+uname -n
+uname -a
+uname -m
+uname -r
+uname -v
+uname -p
+uname -o
+ip a
+git clone https://github.com/marisolcitag/so-exam1.git
+ls
+cd so-exam1/
+ls
+cd A00246380/
+ls
+cd ..
+git status
+git branch -a
+ls
+cd ..
+git add --all
+ls
+cd so-exam1/
+git add --all
+git commit -m "update comandos"
+git config --global user.email "marisol.giraldo@correo.icesi.edu.co"
+git config --global user.name "Marisol Giraldo Cobo"
+git commit -m "update comandos"
+history > comandos.txt
+git push origin marisolcitag/so-exam1 
+git pull
